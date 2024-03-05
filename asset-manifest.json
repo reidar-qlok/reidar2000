@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reidar2000/static/css/main.7173d529.css",
+    "main.js": "/reidar2000/static/js/main.3cc35170.js",
+    "static/js/453.2c8bc8c5.chunk.js": "/reidar2000/static/js/453.2c8bc8c5.chunk.js",
+    "index.html": "/reidar2000/index.html",
+    "main.7173d529.css.map": "/reidar2000/static/css/main.7173d529.css.map",
+    "main.3cc35170.js.map": "/reidar2000/static/js/main.3cc35170.js.map",
+    "453.2c8bc8c5.chunk.js.map": "/reidar2000/static/js/453.2c8bc8c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7173d529.css",
+    "static/js/main.3cc35170.js"
+  ]
+}
