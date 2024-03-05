@@ -1,0 +1,7 @@
+.custom-thead-dark {
+  background-color: #343a40;
+  color: #ffffff;
+}
+.custom-rounded-table {
+  border-radius: 1rem; /* Justera detta värde för att öka eller minska rundningen */
+}
